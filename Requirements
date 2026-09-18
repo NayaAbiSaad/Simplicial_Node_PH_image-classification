@@ -1,0 +1,12 @@
+numpy
+Pillow
+scikit-image
+networkx
+toponetx
+gudhi
+mahotas
+pandas
+matplotlib
+scikit-learn
+optuna
+xgboost
